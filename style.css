@@ -113,7 +113,7 @@ nav a{
 	background:#1f2836;
 	padding:70px 0px;
 	width:1349px;
-	
+	float:left;
 }
 .footer-sect{
 	width:33%;
