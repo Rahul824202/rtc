@@ -1,140 +1,145 @@
-*{
-	padding:0px;
+* {
 	margin:0px;
+	padding:0px;
 }
-html, body{
-	font-family:Roboto, sans-serif, arial;
-	font-size:14px;
-	color:#242424;
+html, body {
+	font-family: Roboto, sans-serif, arial;
+	font-size: 14px;
+	color: #242424;
 }
-.container{
-	width:1200px;
+.container {
+	width: 1200px;
 	margin:0px auto;
 }
-.main-section{
-	width:100%;
-	float:left;
+.main-section {
+	width: 100%;
+	float: left;
 	padding:50px 0px 40px 0px;
 }
-
-.heading{
-	font-size:22px;
-	font-weight:500;
-	border-bottom:1px solid #ff5722;
-	color:#ff5722;
+.heading {
+	font-size: 22px;
+	font-weight: 500;
+	border-bottom: 1px solid #ff5722;
+	margin-bottom:25px;
+	color: #ff5722;
 }
-.logo{
-width:100%;
+/*Logo Section*/
+.logo {
+	width:100%;
 }
-
-nav{
-	width:1349px;
-	float:left;
-	background:#ff5722;
+/*Menu Section*/
+nav {
+	width: 100%;
+	float: left;
+	background: #ff5722;
 	padding:15px 0px;
 }
-nav a{
-   color:#fff;
-   text-decoration:none;
-   font-size:17px;
-   border-right:1px solid #ffc3c3;
-   padding:2px 20px;
+nav a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 17px;
+	border-right: 1px solid #ffc3c3;
+	padding:2px 20px;
 }
-
-
-.slider img{
-	width:1349px;
-	height:500px;
-      float:left;
-}
-.event{
-	width:31%;
-	float:left;
-	margin-right:1%;
-}
-
-.event div{
-	padding:10px;
-	background:#f0f3fa;
-}
-.event ul li{
-	margin-bottom:20px;
+/*Slider Section*/
+.slider img {
 	width:100%;
+}
+/*Event Section*/
+.event {
+	width: 31%;
+	margin-right: 1%;
+	float: left;
+}
+.event div {
+	padding:10px;
+	background-color: #f0f3fa;
+}
+.event ul li {
+	margin-bottom: 20px;
+	width: 100%;
+	float: left;
+}
+/*About Us Section*/
+.about-us img {
+	width:24%;
 	float:left;
 }
-
-.about-us img{
-	width:24%;
-		float:left;
-}
-.about-us div{
+.about-us div {
 	width:70%;
 	margin-left:20px;
 	float:left;
 	line-height:35px;
 }
-.testimonial{
-	width:380px;
-	float:left;
+/*Testimonial Section*/
+.testimonial {
+	width: 380px;
+	float: left;
 	margin-right:10px;
 }
-.testimonial-text{
-	background:#f0f3fa;
-	padding:20px;
-	line-height:35px;
-	border-radius:10px;
+.testimonial-text {
+	background: #f0f3fa;
+	padding: 20px;
+	line-height: 35px;
+	border-radius: 10px;
 }
-.testimonial-detail{
+.testimonial-detail {
 	float:left;
 	margin-top:10px;
 }
-.testimonial-img{
+.testimonial-img {
 	float:left;
 }
-.testimonial-img img{
+.testimonial-img img {
 	border-radius:50%;
 }
-.testimonial-name{
+.testimonial-name {
 	margin-left:10px;
 	float:left;
 }
-.testimonial-name h5{
+.testimonial-name h5 {
 	font-size:18px;
 	margin-top:8px;
 }
-.gallery img{
-	width:24%;
+/*Gallery Section*/
+.gallery img {
+	width: 24%;
 }
-
-.footer{
-	background:#1f2836;
+/*Placement Section*/
+.placement img {
+	border:1px solid #dfdfdf;
+}
+/*Footer Section*/
+.footer {
+	background-color:#1f2836;
 	padding:70px 0px;
 	width:100%;
 	float:left;
 }
-.footer-sect{
+.footer-sect {
 	width:33%;
 	float:left;
 }
-.footer-sect h2{
+.footer-sect h2 {
 	color:#fff;
+	margin-bottom: 20px;
 }
-.footer-sect p{
-	color:#fff;
-	line-height:22px;
+.footer-sect p {
+	color: #fff;
+	line-height: 22px;
 	padding:0px 30px 20px 0px;
 }
-.footer-menu li{
-	width:50%;
-	float:left;
-	margin-bottom:10px;
+.footer-menu li {
+	width: 50%;
+	float: left;
+	margin-bottom: 10px;
 }
-.footer-menu li a{
+.footer-menu li a {
 	color:#fff;
-	text-decoration:none;
+	text-decoration: none;
 }
-.footer-contact li{
-	  margin-bottom:15px;
-	  list-style:none;
-	  color:#fff;
+.footer-contact li {
+	margin-bottom:15px;
+	list-style: none;
+	color: #fff;
 }
