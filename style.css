@@ -108,7 +108,7 @@ nav a{
 
 .footer{
 	background:#1f2836;
-	padding:20px 0px;
+	padding:70px 0px;
 	width:100%;
 	float:left;
 }
@@ -126,7 +126,7 @@ nav a{
 }
 .footer-menu li{
 	width:50%;
-	
+	float:left;
 	margin-bottom:10px;
 }
 .footer-menu li a{
