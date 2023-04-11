@@ -65,7 +65,7 @@ nav a{
 
 .about-us img{
 	width:24%;
-		
+		float:left;
 }
 .about-us div{
 	width:70%;
@@ -109,7 +109,7 @@ nav a{
 .footer{
 	background:#1f2836;
 	padding:20px 0px;
-	width:1349px;
+	width:100%;
 	float:left;
 }
 .footer-sect{
